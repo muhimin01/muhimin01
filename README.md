@@ -1,4 +1,4 @@
-# Привет,<br><sup>ich bin muhimin.</sup>
+# Привет,<br><sub>ich bin muhimin.</sub>
 
 <!--
 **muhimin01/muhimin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://www.svgrepo.com/show/353564/cloudflare.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="unity" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
     <img src="https://taddeodario.com/flstudio.svg" title="FL Studio" **alt="flstudio" width="40" height="40">
 </div><br/>
 
