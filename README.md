@@ -29,10 +29,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="git" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="firebase" width="40" height="40">
     <img src="https://www.svgrepo.com/show/353564/cloudflare.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
+    <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET" **alt="dot-net" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="unity" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="godot" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
-    <img src="https://taddeodario.com/flstudio.svg" title="FL Studio" **alt="flstudio" width="40" height="40">
 </div>
 
 <br>
