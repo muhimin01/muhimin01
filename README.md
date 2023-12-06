@@ -31,9 +31,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="discordjs" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="godot" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="firebase" width="40" height="40">
-    <img src="https://www.svgrepo.com/show/353564/cloudflare.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebase.svg" title="Firebase" **alt="firebase" width="40" height="40">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/cloudflare-icon.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
 </div>
 
 <br>
