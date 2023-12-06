@@ -20,18 +20,19 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" **alt="html5" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" **alt="css3" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" **alt="javascript" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-plain.svg" title="Discord.js" **alt="discordjs" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="csharp" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="c" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="cplusplus" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="php" width="40" height="40">
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="vscode" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="git" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="firebase" width="40" height="40">
-    <img src="https://www.svgrepo.com/show/353564/cloudflare.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET" **alt="dot-net" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="discordjs" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="godot" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="firebase" width="40" height="40">
+    <img src="https://www.svgrepo.com/show/353564/cloudflare.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
 </div>
 
