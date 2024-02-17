@@ -26,14 +26,14 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="php" width="40" height="40">
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="vscode" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="git" width="40" height="40">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" title="Git" **alt="git" width="40" height="40">
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET" **alt="dot-net" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="discordjs" width="40" height="40">
+    <img src="https://godotengine.org/assets/press/icon_color.svg" title="Godot" **alt="godot" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" **alt="godot" width="40" height="40">
-    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebase.svg" title="Firebase" **alt="firebase" width="40" height="40">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/cloudflare-icon.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-photoshop.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" **alt="firebase" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
 </div>
 
 <br>
