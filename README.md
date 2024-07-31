@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### :speech_balloon: General Languages
 
-:gb: - Spoken
+:gb: : Spoken
 
-:de: - Learning
+:de: : Learning
 
-:ru: - Learning
+:ru: : Learning
