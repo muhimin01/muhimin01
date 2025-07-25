@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="typescript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="csharp" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="c" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="c" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="cplusplus" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="php" width="40" height="40">
     <br>
