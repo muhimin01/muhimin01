@@ -33,9 +33,10 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="discordjs" width="40" height="40">
     <img src="https://godotengine.org/assets/press/icon_color.svg" title="Godot" **alt="godot" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" **alt="unrealengine" width="40" height="40">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v030bcccda96ffbfc45363010bea8ba52e77f80d8de5da28f6cb7329ed55ead3b/firebase/images/touchicon-180.png" title="Firebase" **alt="firebase" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v030bcccda96ffbfc45363010bea8ba52e77f80d8de5da28f6cb7329ed55ead3b/firebase/images/touchicon-180.png" title="Firebase" **alt="firebase" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
+    <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" title="FL Studio" **alt="flstudio" width="40" height="40">
 </div>
 
 <br>
