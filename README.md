@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="csharp" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="c" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="cplusplus" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="php" width="40" height="40">
     <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="vscode" width="40" height="40">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" title="Git" **alt="git" width="40" height="40">
