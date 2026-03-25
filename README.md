@@ -1,4 +1,4 @@
-# Привет,<br><sub>ich bin muhimin.</sub>
+# Привет,<br><sub>ich bin <em>muhimin</em>.</sub>
 
 <!--
 **muhimin01/muhimin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,12 +31,15 @@ Here are some ideas to get you started:
     <img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" title=".NET" **alt="dot-net" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" **alt="cloudflare" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" **alt="photoshop" width="40" height="40">
-    <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" title="FL Studio" **alt="flstudio" width="40" height="40">
+    <img src="https://audacityteam.org/_astro/Audacity_Logo.DK8H7nvr.svg" title="Audacity" **alt="audacity" width="40" height="40">
+    <img src="https://image-line.com/wp-content/themes/intracto/build/images/fl-header-logo.png" title="FL Studio" **alt="flstudio" width="40" height="40">
 </div>
 
 <br>
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhimin01&layout=compact&hide_title=true&theme=vision-friendly-dark&bg_color=00000000&hide_border=true&text_color=848d97)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ### :speech_balloon: General Languages
 
